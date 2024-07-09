@@ -1,9 +1,7 @@
 # Data Analyst
 
 #Education
-Master of Business Information Systems
-Lincoln Institute of Higher Education
-2023-2025
+- Master of Business Information Systems (MBIS) | Lincoln Institute of Higher Education | 2023-2025
 
 
 ###Work Experience
